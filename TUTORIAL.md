@@ -97,7 +97,7 @@ Setelah tahu sejarahnya, saatnya kita mengetahui tahapan-tahapan sederhana dari 
 
 11. Jika sudah, maka objek plane akan sesuai dengan material yang kamu pilih, tetapi posisinya masih tidak sesuai dengan seharusnya, untuk memperbaiki itu kamu bisa menggunakan fitur transformasi di bagian preview filter dengan mengklik tombol transformasi, scaling, rotation di bagian atas layar preview, pastikan objek plane sudah sesuai dengan posisi seharusnya
 
-[![Proses pencocokan posisi, ukuran, rotasi pada objek plane](https://img.youtube.com/vi/8eZRHfP-Ces/0.jpg)](https://www.youtube.com/watch?v=8eZRHfP-Ces)
+![Proses pencocokan posisi, ukuran, rotasi pada objek plane](https://github.com/zFz0000/TopiDanKacamataSparkAR/blob/main/tutorial-image/transformation.gif?raw=true)
 
 > tips tambahan: jika objek yang kamu inginkan merupakan bagian dari suatu wajah ( kacamata, topi, topeng, dll ) penulis sarankan untuk memberikan nilai posisi Z -0.005 sampai -0.015 agar posisinya tepat menempel muka
 
