@@ -7,7 +7,7 @@ Gunakan Aplikasi Spark AR Studio untuk membuka projek ini
 # Tutorial
 Untuk yang tidak paham dengan file ini, atau bagaimana dasar dasar dalam membuat Augmented Reality menggunakan Spark AR Studio, kamu bisa mengakses url berikut
 
-[Cara Membuat Filter Instagram Untuk Pemula Menggunakan Spark AR](https://48faraaz.medium.com/cara-membuat-filter-instagram-untuk-pemula-menggunakan-spark-ar-3003c6614453)
+[Cara Membuat Filter Instagram Untuk Pemula Menggunakan Spark AR](https://github.com/zFz0000/TopiDanKacamataSparkAR/blob/main/TUTORIAL.md)
 
 # License
 [MIT License](https://github.com/zFz0000/TopiDanKacamataSparkAR/blob/main/LICENSE)
